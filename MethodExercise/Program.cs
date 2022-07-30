@@ -38,6 +38,7 @@ namespace MethodExercise
         public static int Modulus(int num1, int num2)
         {
             var answer = num1 % num2;
+            return answer;
 
 
         }
