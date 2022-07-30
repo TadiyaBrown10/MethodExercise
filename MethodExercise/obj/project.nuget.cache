@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2htwBANp2LisHpGAta/8ukw38DIb0GF8X2Ft3iV/CZ8XAWLzB1QJFOqTiLj1Pp/A7Usz3d39zzdh7gfeHtiY7A==",
+  "success": true,
+  "projectFilePath": "/Users/tadiyabrown/repos/MethodExercise/MethodExercise/MethodExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/tadiyabrown/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/tadiyabrown/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/tadiyabrown/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
